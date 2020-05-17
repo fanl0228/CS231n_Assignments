@@ -1,3 +1,4 @@
+
 # Assignment 1
 
 1. K-Neareast Neighbor
@@ -26,6 +27,26 @@
 - Get a basic understanding of performance improvements from using higher-level representations as opposed to raw pixels, e.g. color histograms, Histogram of Gradient (HOG) features, etc.
 
 
+
+Details about this assignment can be found on the course webpage, under Assignment #1 of Spring 2017.
+
 参考链接：
 
 [1]. https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/README.md
+[2]. https://cs231n.github.io/assignments2020/assignment1/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2020`.
